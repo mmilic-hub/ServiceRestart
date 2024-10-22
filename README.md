@@ -42,17 +42,11 @@ Tue 10/22/2024 18:33:05.20 - Service restart completed.
 CHEKING THE STATUS OF THE SERVICE "XboxGipSvc"
 
 18:30:46.18 Tue 10/22/2024 THE SERVICE "XboxGipSvc" is running Attempting to stop it
-
 The Xbox Accessory Management Service service is stopping.
-
 The Xbox Accessory Management Service service was stopped successfully.
-
 Tue 10/22/2024 18:30:49.30 STARTING THE SERVICE "XboxGipSvc" 
-
 The Xbox Accessory Management Service service is starting.
-
 The Xbox Accessory Management Service service was started successfully.*
-
 Tue 10/22/2024 18:30:51.37 - Service restart completed.
 
 
