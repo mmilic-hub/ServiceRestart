@@ -28,7 +28,6 @@ This batch script automates several tasks related to the restart of the service,
 - **In the action settings, point to the restart_service.bat file.**
  ## Example Log Output
  - **If the service has been stopped.**
- - 
  CHEKING THE STATUS OF THE SERVICE "XboxGipSvc" 
 
 Tue 10/22/2024 18:33:02.46 - The service "XboxGipSvc" is not running. No need to stop it. 
