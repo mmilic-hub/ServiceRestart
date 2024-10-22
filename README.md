@@ -5,8 +5,13 @@ This batch script automates several tasks related to the restart of the service,
 
 ## Features
 
-- **Pinpad Connection Check**: Scans specific COM ports to verify if a pinpad is connected.
-- **File Existence Check**: Ensures required files (e.g., configuration files, marker files) are present in the working directory.
-- **Firmware Handling**: Checks for firmware files and renames them for easy pinpad reload.
-- **Journal Logs**: Searches for specific log files and pinpad serial numbers in the logs.
-- **Service Management**: Stops the Payment Service and restarts it after performing all checks.
+Features
+Checks if the service is running before attempting to stop it.
+Restarts the service only if necessary.
+Logs all operations (start, stop, success, and failure) to a specified log file.
+Designed to work on Windows systems with minimal dependencies.
+
+Requirements
+Windows OS (Batch scripts are native to Windows).
+The service name must be correctly specified.
+Sufficient privileges to start/stop services on the system.
